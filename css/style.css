@@ -58,7 +58,7 @@ p {
   line-height: 1.1;
 }
 
-.l-heading {
+.m-heading {
   font-size: 2rem;
   margin-bottom: 0.75rem;
   line-height: 1.1;
@@ -196,7 +196,7 @@ p {
   margin-bottom: 1rem;
 }
 
-/* Section: What We Are */
+/* Section: Who We Are */
 
 #who {
   display: flex;
@@ -242,4 +242,5 @@ p {
 
 #contact .contact-form input, #contact .contact-form textarea {
   width: 100%;
+  padding: 0.5rem;
 }
