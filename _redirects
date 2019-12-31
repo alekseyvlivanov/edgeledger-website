@@ -1,0 +1,6 @@
+# Netlify redirects
+
+https://dazzling-franklin-f55468.netlify.com/* https://edgeledger.chessiah.xyz/:splat 301!
+http://dazzling-franklin-f55468.netlify.com/* https://edgeledger.chessiah.xyz/:splat 301!
+
+http://edgeledger.chessiah.xyz/* https://edgeledger.chessiah.xyz/:splat 301!
