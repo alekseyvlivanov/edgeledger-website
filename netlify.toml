@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "https://edgeledger-website-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://edgeledger-website.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://edgeledger-website-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://edgeledger-website.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://edgeledger-website.aleksey-vl-ivanov.com/*"
+  to = "https://edgeledger-website.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true

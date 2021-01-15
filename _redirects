@@ -1,6 +1,0 @@
-# Netlify redirects
-
-https://edgeledger-website-chessiah.netlify.app/* https://edgeledger-website.chessiah.com/:splat 301!
-http://edgeledger-website-chessiah.netlify.app/* https://edgeledger-website.chessiah.com/:splat 301!
-
-http://edgeledger-website.chessiah.com/* https://edgeledger-website.chessiah.com/:splat 301!
